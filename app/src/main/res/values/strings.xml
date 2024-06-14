@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">carteraAPP</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="txt_boton">Abrir APP</string>
+    <string name="txt_registro">registrar</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="salver">Guardar</string>
+</resources>
